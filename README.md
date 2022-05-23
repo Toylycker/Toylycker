@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Toylycker
+- 👀 I’m interested in web development and mobile development. I have a good programming knowledge in python and php and i love creating e-commerce applications on Laravel/
+- 🌱 I’m currently learning Laravel and improving my skills.
+- 📫 You can reach me writing to toyly2712@gmail.com
